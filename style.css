@@ -944,15 +944,18 @@ transition: .3s;
 }
 
 .map1{
-    width: 48%;
+    width: 50%;
     height: 100%;   
+    position:relative;
+    z-index:+111;
 
 }
 
 .map2{
-    width: 48%;
+    width: 50%;
     height: 100%;  
-
+  position:relative;
+    z-index:+111;
 }
 
 .map3{
