@@ -785,7 +785,7 @@ body{
 .contact-container{
     width: 110%;
     height: 300px;
-    z-index: +1;
+    z-index: 0;
     margin-top: -10px;
     position: relative;
     display: flex;
@@ -945,7 +945,7 @@ transition: .3s;
 
 .map1{
     width: 50%;
-    height: 100%;   
+    height: 90%;   
     position:relative;
     z-index:+111;
 
@@ -953,7 +953,7 @@ transition: .3s;
 
 .map2{
     width: 50%;
-    height: 100%;  
+    height: 90%;  
   position:relative;
     z-index:+111;
 }
